@@ -13,6 +13,9 @@ The learning TensorFlow repository is contained the Google Colab notebooks that 
 ## Image classification
 * `X_rayCOVIDClassification.ipynb`: Using CNN Model to classify COVID-19 film X-Ray out ot normal cases.
 
+## Object detection
+* `customObjectDetection`: The custom object detection project using TensorFlow API Version 1.
+
 ## Object recognition
 * `OCRModel.ipynb`: Developed the Optical Character Recognition (OCR) Model to recognise image handwriting.
 * `autoencoder_face.ipynb`: Using Auto-Encoder to reconstruct face images.
