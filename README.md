@@ -10,7 +10,7 @@
 
 The learning TensorFlow repository is contained the Google Colab notebooks that have been using TensorFlow to develop the model. This is covered various areas such as Computer Vision (Object detection, Recognition), Natural language processing (NLP), etc.
 
-## Object classification
+## Image classification
 * `X_rayCOVIDClassification.ipynb`: Using CNN Model to classify COVID-19 film X-Ray out ot normal cases.
 
 ## Object recognition
