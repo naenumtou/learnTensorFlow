@@ -16,6 +16,7 @@ The learning TensorFlow repository is contained the Google Colab notebooks that 
 ## Object detection
 * `LeicaModel`: The custom object detection with YOLO V3.
 * `customObjectDetection`: The custom object detection project using TensorFlow API Version 1.
+* `faceMaskDetection`: The custom object detection of face mask image using MobileNetV2 Pre-trained model. The trained model is used for detection face mask on image or vedio.
 
 ## Object recognition
 * `OCRModel.ipynb`: Developed the Optical Character Recognition (OCR) Model to recognise image handwriting.
