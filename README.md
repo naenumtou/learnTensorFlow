@@ -14,6 +14,7 @@ The learning TensorFlow repository is contained the Google Colab notebooks that 
 * `X_rayCOVIDClassification.ipynb`: Using CNN Model to classify COVID-19 film X-Ray out ot normal cases.
 
 ## Object detection
+* `LeicaModel`: The custom object detection with YOLO V3.
 * `customObjectDetection`: The custom object detection project using TensorFlow API Version 1.
 
 ## Object recognition
