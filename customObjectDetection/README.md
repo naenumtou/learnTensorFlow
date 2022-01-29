@@ -8,10 +8,11 @@
   <img src="https://miro.medium.com/max/2400/0*59hPdahQiz1dTmgV.jpg" alt="TensorFlow learning"/>
 </p>
 
---Wording--.
+This repository contained model materials for TensorFlow API Verions 1.x. This materials are used for custom object detection model from pre-train Mobilenet v2 model.
 
 ## Model materials
-* `TensorFlowAPI_Object.ipynb`:
-* `TensorFlowAPI_ObjectPredict.ipynb`:
-
-
+* `TensorFlowAPI_Object.ipynb`: The Google Colab notebook to train custom object detection model.
+* `TensorFlowAPI_ObjectPredict.ipynb`: The Google Colab notebook to use (prediction) custom object detection model.
+* `generate_tfrecord.py`: Python script to generate TensorFlow record (TFRecord). This is to feed into neural network.
+* `ssd_mobilenet_v2_coco.config`: The SSD with Mobilenet v2 configuration.
+* `xml_to_csv.py`: The converter `.xml` location files of object target to `.csv` format. 
