@@ -8,23 +8,23 @@
   <img src="https://www.surveillance-video.com/media/catalog/product/cache/c01a9be670ea9db53792e63d854bd9d2/image/1304310da6/samsung-op-a2fmd-01-face-mask-detection-application-op-a2fmd-01.jpg" alt="Real-time face mask detection"/>
 </p>
 
-This repository contained --.
+This repository contained face mask detection model. The overall process is to use transfer learning to build the object detection model to detect the face mask. Then, it will be appiled on the video by using `faceNet` to help for face detection prior appiled face mask trained model. 
 
 ## Model materials
-* `TensorFlowAPI_Object.ipynb`: The Google Colab notebook to train custom object detection model.
-* `TensorFlowAPI_ObjectPredict.ipynb`: The Google Colab notebook to use (prediction) custom object detection model.
-* `generate_tfrecord.py`: Python script to generate TensorFlow record (TFRecord). This is to feed into neural network.
-* `ssd_mobilenet_v2_coco.config`: The SSD with Mobilenet v2 configuration.
-* `xml_to_csv.py`: The converter `.xml` location files of object target to `.csv` format. 
+* `face_mask.model`: The trained face mask detection model.
+* `faceMaskDetection.ipynb`: The Google Colab notebook to develop face maks detection model.
+* `res10_300x300_ssd_iter_140000.caffemodel`: The faceNet model to help for face detection prior apply face mask detection model.
+* `deploy.prototxt.txt`: The faceNet config file.
+* `faceMaskVideo.ipynb`: The Google Colab notebook to use face mask detection model with video files. 
 
 ## Sample model results
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hHv96VC/1.png" alt="Real-time face mask detection" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hmj2v8g/2.png" alt="Real-time face mask detection" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/QFs4mNq/3.png" alt="Real-time face mask detection" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/cTQXSwS/4.png" alt="Real-time face mask detection" border="0"></a>
-<a href="https://ibb.co/TYYfbLG"><img src="https://i.ibb.co/sbbf6H4/5.png" alt="Real-time face mask detection" border="0"></a>
-<a href="https://ibb.co/mTN8pjN"><img src="https://i.ibb.co/7Ck4hfk/6.png" alt="Real-time face mask detection" border="0"></a>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/9FQf7Kyd/1.png" alt="Real-time face mask detection"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/pL9X0jGy/2.png" alt="Real-time face mask detection"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/NfCj7DxW/3.png" alt="Real-time face mask detection"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/qv9BW7Sw/4.png" alt="Real-time face mask detection"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/MGVZwS8S/5.png" alt="Real-time face mask detection"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/d1FstxqT/6.png" alt="Real-time face mask detection"/></a><br/><br/>
 </p>
 
 ## Full video results
