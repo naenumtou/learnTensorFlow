@@ -19,17 +19,8 @@ This repository contained model materials for TensorFlow API Verions 1.x. This m
 
 ## Sample model results
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*rnO7YZWf483apbKNvsAIBw.png" alt="TensorFlow API V.1"/>
-</p>
-
-<p align="center">
-  <img src="https://miro.medium.com/max/450/1*m2mk36exoi6TUjdxeLypeA.png" alt="TensorFlow API V.1"/>
-</p>
-
-<p align="center">
-  <img src="https://miro.medium.com/max/450/1*zeSBNd5FuIHtpdz1xMTABQ.png" alt="TensorFlow API V.1"/>
-</p>
-
-<p align="center">
-  <img src="https://miro.medium.com/max/450/1*JtyLMdfccMbDd8CW1TJDhw.png" alt="TensorFlow API V.1"/>
+<img src="https://miro.medium.com/max/1400/1*rnO7YZWf483apbKNvsAIBw.png" alt="TensorFlow API V.1"/><br/><br/>
+<img src="https://miro.medium.com/max/450/1*m2mk36exoi6TUjdxeLypeA.png" alt="TensorFlow API V.1"/><br/><br/>
+<img src="https://miro.medium.com/max/450/1*zeSBNd5FuIHtpdz1xMTABQ.png" alt="TensorFlow API V.1"/><br/><br/>
+<img src="https://miro.medium.com/max/450/1*JtyLMdfccMbDd8CW1TJDhw.png" alt="TensorFlow API V.1"/><br/><br/>
 </p>
