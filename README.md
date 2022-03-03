@@ -29,6 +29,7 @@ The learning TensorFlow repository is contained the Google Colab notebooks that 
 
 ## Natural language processing (NLP)
 * `word2vec.ipynb`: Using Long Short-Term Memory (LSTM) to classify news topics.
+* `childrenQuotation.ipynb`: Text generator NLP Model using LSTM. It is to generate children's day quotation in Thailand.
 
 ## Others
 * `colabTPU.ipynb`: The experiment to use TPU for model training.
