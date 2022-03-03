@@ -14,3 +14,4 @@ Dataset used for the learning process of TensorFlow. It contained several kinds 
 | File name | Description |
 | --- | --- |
 | childrenDay.csv | The historical quotation of Children's Day of Thailand |
+| LeicaExample.jpg | The example image to use as model material |
