@@ -23,6 +23,7 @@ The learning TensorFlow repository is contained the Google Colab notebooks that 
 * `OCRModel.ipynb`: Developed the Optical Character Recognition (OCR) Model to recognise image handwriting.
 * `autoencoder_face.ipynb`: Using Auto-Encoder to reconstruct face images.
 * `OCRResNet50.ipynb`: Developed the Optical Character Recognition (OCR) using transfer learning with ResNet50 pre-trained model.
+* `OCRUsed.ipynb`: The usage of the Optical Character Recognition (OCR) using trained model by ResNet50 pre-trained model.
 
 ## Financial model
 * `autoencoders_fraud_detection.ipynb`: Using Auto-Encoder to detect fraud in the credit card dataset.
