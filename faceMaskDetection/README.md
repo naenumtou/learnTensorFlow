@@ -29,6 +29,9 @@ This repository contained face mask detection model. The overall process is to u
 
 ## Full video results
 https://github.com/user-attachments/assets/9124794e-c28f-4ea3-b482-ddc10db4b168
+
 https://github.com/user-attachments/assets/d7ce683c-7f43-4020-8508-e364db24fe75
+
 https://github.com/user-attachments/assets/6df175d0-3aa0-4906-87fc-e315cfd09925
+
 https://github.com/user-attachments/assets/7bef6455-8d79-4c3b-99a3-0b8523f2aa06
