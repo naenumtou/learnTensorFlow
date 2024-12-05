@@ -32,3 +32,7 @@ This repository contained face mask detection model. The overall process is to u
 2. https://youtu.be/Hkc9g2a1yXI
 3. https://youtu.be/hfcz7A5DCV8
 4. https://youtu.be/Bi6HnDc7wtw
+
+
+https://github.com/user-attachments/assets/9124794e-c28f-4ea3-b482-ddc10db4b168
+
